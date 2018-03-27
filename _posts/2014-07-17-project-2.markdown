@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: Remote Sensing
 subtitle: Website Design
 layout: default
 modal-id: 2
