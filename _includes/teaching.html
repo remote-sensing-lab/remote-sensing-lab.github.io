@@ -1,37 +1,70 @@
 <!-- About Section -->
     <section id="teaching">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Teaching</h2>
-                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-                </div>
-            </div>
-            <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-3">
-                    <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12 text-center">
+                  <h2 class="section-heading">Teaching</h2>
+                  <p class="text-muted">Courses I have taught: GEOG 533, GEOG 503A, GEOG 221, GEOG 121. Courses I am developing: GEOG 550, GEOG 566</p>
+              </div>
+          </div>
+          <div class="row text-center">
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog533.png" target="_blank" class="image featured"><img src="images/geog533.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog533.png" target="_blank">Statistics for Geography</a></h4>
+                  <p>GEOG 533</p>
+              </div>
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog503.png" target="_blank" class="image featured"><img src="images/geog503.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog503.png" target="_blank">Programming in GIS</a></h4>
+                  <p>GEOG 503A</p>
+              </div>
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog221.png" target="_blank" class="image featured"><img src="images/geog221.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog221.png" target="_blank">Global Climate Change</a></h4>
+                  <p>GEOG 221</p>
+              </div>
+          </div>
+          <div class="row text-center">
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog121.png" target="_blank" class="image featured"><img src="images/geog121.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog121.png" target="_blank">Physical Geography</a></h4>
+                  <p>GEOG 121</p>
+              </div>
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog550.png" target="_blank" class="image featured"><img src="images/geog550.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog550.png" target="_blank">Web GIS</a></h4>
+                  <p>GEOG 550</p>
+              </div>
+              <div class="col-md-4">
+                  <!-- <span class="fa-stack fa-4x">
+                      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                  </span> -->
+                  <a href="images/geog566.png" target="_blank" class="image featured"><img src="images/geog566.png" class="img-responsive img-centered" alt="" /></a>
+                  <h4 class="service-heading"><a href="images/geog566.png" target="_blank">Spatial Statistics</a></h4>
+                  <p>GEOG 566</p>
+              </div>
+          </div>
 
-                </div>
-                <div class="col-lg-6 col-lg-offset-2 text-left">
-                    <p class="large text-muted">I am an Assistant Professor in the <a href="http://www.binghamton.edu/geography/" target="_blank">Department of Geography</a> at <a href="http://www.binghamton.edu/" target="_blank">Binghamton University</a>, State University of New York (<a href="https://baike.baidu.com/item/%E7%BA%BD%E7%BA%A6%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E5%AE%BE%E6%B1%89%E5%A7%86%E9%A1%BF%E5%A4%A7%E5%AD%A6" target="_blank">纽约州立大学-宾汉姆顿</a>). My research interests focus on Geographical Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in the application of geospatial big data, machine learning, and cloud computing (e.g., Google Earth Engine, AWS, Microsoft Azure) to the study of the physical environment, such as the wetland ecosystems and water resources. Check out my <a href="#research">research</a> and <a href="#teaching">teaching</a> pages for more information about what I am currently working on.
-                    </p>
-                </div>
-                {% endfor %}
-
-            </div>
-        </div>
-    </section>
+      </div>
+  </section>
