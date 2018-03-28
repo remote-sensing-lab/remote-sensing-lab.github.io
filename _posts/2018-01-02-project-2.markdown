@@ -1,0 +1,15 @@
+---
+title: Remote Sensing
+subtitle: LiDAR, Microwave, Big Data, Deep Learning, Google Earth Engine, Azure
+layout: default
+modal-id: 2
+date: 2018-01-05
+img: naip.jpg
+thumbnail: naip-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Research
+description: <img src="img/research/naip.jpg" class="img-responsive img-centered"">
+
+---

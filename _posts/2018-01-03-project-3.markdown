@@ -1,0 +1,15 @@
+---
+title: Environmental Modeling
+subtitle: Hydrological Modeling, Wetland Hydrology, Spatiotemporal Analytics
+layout: default
+modal-id: 3
+date: 2018-01-04
+img: connectivity.jpg
+thumbnail: connectivity-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Research
+description: <img src="img/research/connectivity.jpg" class="img-responsive img-centered"">
+
+---
