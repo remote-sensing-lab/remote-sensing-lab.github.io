@@ -12,20 +12,25 @@ people:
   social:
     - title: twitter
       url: http://twitter.com/giswqs
-    - title: linkedin
-      url: https://www.linkedin.com/in/qiushengwu
+    - title: wordpress
+      url: https://gisday.wordpress.com/
     - title: github
       url: http://github.com/giswqs
+    - title: linkedin
+      url: https://www.linkedin.com/in/qiushengwu
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/giswqs
-  - title: linkedin
-    url: https://www.linkedin.com/in/qiushengwu
+  - title: wordpress
+    url: https://gisday.wordpress.com/
   - title: github
     url: http://github.com/giswqs
+  - title: linkedin
+    url: https://www.linkedin.com/in/qiushengwu
 
 # Postal address (add as many lines as necessary)
 address:
