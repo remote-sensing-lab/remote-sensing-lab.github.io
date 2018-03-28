@@ -13,6 +13,7 @@ body {
 li{
   margin: 10px 0;
 }
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -328,7 +329,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 108px;
+    padding: 100px 0;
 }
 
 section h2.section-heading {
