@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: <img src="img/research/connectivity.jpg" class="img-responsive img-centered"">
+description: Under construction! <br><img src="img/research/connectivity.jpg" class="img-responsive img-centered"">
 
 ---

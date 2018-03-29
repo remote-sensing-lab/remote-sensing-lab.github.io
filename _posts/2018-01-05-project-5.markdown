@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Various tutorials, maps, and datasets reproducible research.
+description: Under construction!
 
 ---

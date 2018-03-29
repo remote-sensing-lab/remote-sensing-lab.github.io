@@ -10,7 +10,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: <iframe src="https://docs.google.com/presentation/d/1eThCEiwaJWBMgSCjYc0QBl4__hCRMvoPF90Zoxyxms0/embed?start=true&loop=true&delayms=3000" frameborder="0" width="700" height="425" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+description: Under construction! <br>  Click <a href="slides/index.html" target="_blank">here</a> to view Google slides of my projects.
+
 
 
 ---
