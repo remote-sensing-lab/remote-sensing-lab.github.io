@@ -1,6 +1,6 @@
 ---
 title: Software Tools
-subtitle: Website Design
+subtitle: Various open-source packages and tools for geospatial and hydrological analysis
 layout: default
 modal-id: 4
 date: 2018-01-03
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Various open-source packages and tools for geospatial and hydrological analysis.
 
 ---

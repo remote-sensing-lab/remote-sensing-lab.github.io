@@ -1,6 +1,6 @@
 ---
 title: Google Slides Show
-subtitle: Graphic Design
+subtitle: Demos of my research projects and refereed publications
 layout: default
 modal-id: 6
 date: 2018-01-01
