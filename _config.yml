@@ -18,8 +18,8 @@ people:
       url: http://github.com/giswqs
     - title: linkedin
       url: https://www.linkedin.com/in/qiushengwu
-
-
+    - title: graduation-cap
+      url: https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -31,6 +31,8 @@ social:
     url: http://github.com/giswqs
   - title: linkedin
     url: https://www.linkedin.com/in/qiushengwu
+  - title: graduation-cap
+    url: https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en
 
 # Postal address (add as many lines as necessary)
 address:
