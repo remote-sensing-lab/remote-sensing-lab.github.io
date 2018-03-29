@@ -1,6 +1,6 @@
 ---
 title: Software Tools
-subtitle: Various open-source packages and tools for geospatial and hydrological analysis
+subtitle: Open-source packages for geospatial and hydrological analysis
 layout: default
 modal-id: 4
 date: 2018-01-03

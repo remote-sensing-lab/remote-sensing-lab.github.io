@@ -1,6 +1,6 @@
 ---
 title: Tutorials, Maps, and Data
-subtitle: Various tutorials, maps, and datasets reproducible research
+subtitle: Various tutorials, maps, and datasets for reproducible research
 layout: default
 modal-id: 5
 date: 2018-01-02
