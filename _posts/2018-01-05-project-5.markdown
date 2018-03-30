@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Under construction!
+description: <a href="tutorials#HEAD">Tutorials</a> <br> <a href="links#HEAD">Useful Links</a>
 
 ---

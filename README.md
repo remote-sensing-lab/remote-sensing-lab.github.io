@@ -21,6 +21,8 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+### Creating a new page
 
+create a page under _includes, _layouts, and root folder
 =========
 For more details, read [documentation](http://jekyllrb.com/)
