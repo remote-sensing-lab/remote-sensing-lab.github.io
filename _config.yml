@@ -1,3 +1,5 @@
+include: ["_pages"]
+
 # Site settings
 title: Qiusheng Wu
 email: wqs@binghamton.edu
