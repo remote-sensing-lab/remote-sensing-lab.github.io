@@ -52,11 +52,15 @@ a.active {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
     text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
+}
+
+h3 {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -336,6 +340,12 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+}
+
+section h3.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 30;
 }
 
 section h3.section-subheading {

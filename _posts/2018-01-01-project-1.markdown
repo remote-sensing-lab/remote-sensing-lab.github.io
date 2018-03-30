@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Under construction!
+description: <p>GIS Web Mapping Using Open-source Software Package - Leaflet for R</p><br> <img src="img/research/webgis.jpg" class="img-responsive img-centered"">
 
 ---
