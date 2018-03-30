@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Under construction! <br>  Click <a href="slides/index.html" target="_blank">here</a> to view Google slides of my projects.
+description: Under construction! <br>  Click <a href="slides#HEAD">here</a> to view Google slides of my projects.
 
 
 
