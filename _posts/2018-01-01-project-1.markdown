@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: <p>GIS Web Mapping Using Open-source Software Package - Leaflet for R</p><br> <img src="img/research/webgis.jpg" class="img-responsive img-centered"">
+description: <h4>Check <a href="gishub#HEAD">GIShub.org</a> to see a complete list of software tools and packages I developed.</h4> <ul><li style="margin:10px" align="left">Level-set Method for Delineating Topographic Hierarchy</li><li style="margin:10px" align="left">Wetland Hydrology Analyst</li><li style="margin:10px" align="left">Drumlin Extraction Toolbox</li><li style="margin:10px" align="left">Depression Identification Analyst</li></ul><hr> <h3>Web GIS</h3> <p class="large" align="left">Web GIS mapping using open-source software packages, such GeoServer, Leaflet for R.</p><img src="img/research/webgis.jpg" class="img-responsive img-centered""></img><hr>
 
 ---
