@@ -7,7 +7,7 @@ date: 2018-01-05
 img: naip.jpg
 thumbnail: naip-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: February 2018
 client: Start Bootstrap
 category: Research
 description: <h4 align="left">Areas of expertise:</h4> <ul><li style="margin:10px" align="left">LiDAR Remote Sensing</li><li style="margin:10px" align="left">Microwave Remote Sensing</li><li style="margin:10px" align="left">Wetlands and Water Resources</li><li style="margin:10px" align="left">Deep Learning and Cloud Computing (Google Earth Engine, Microsoft Azure)</li></ul><hr>     <h3>LiDAR Remote Sensing</h3><br>     <h4 align="left">Vernal Pool Detection</h4> <p class="large" align="left"><strong>Wu, Q.</strong>, Lane, C.R., &amp; Liu, H. (2014). An Effective Method for Detecting Potential Woodland Vernal Pools Using High-Resolution LiDAR Data and Aerial Imagery. <u><em>Remote Sensing</em></u>. 6(11):11444-11467. DOI:<a href="http://dx.doi.org/10.3390/rs61111444" target="_blank">10.3390/rs61111444</a></p>

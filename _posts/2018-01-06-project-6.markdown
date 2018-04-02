@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Research
-description: Under construction! <br>  Click <a href="slides#HEAD">here</a> to view Google slides of my projects.
+description: <p class="Large">Click the image below to play Google Slides (<a href="slides#HEAD">link</a>)</p><a href="slides#HEAD"><img src="img/research/google-slides.jpg" class="img-responsive img-centered""></img></a><hr>
 
 
 
