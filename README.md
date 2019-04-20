@@ -25,4 +25,4 @@ Images are in '/img/team/'
 
 create a page under _includes, _layouts, and root folder
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+For more details, read [documentation](https://jekyllrb.com/)
