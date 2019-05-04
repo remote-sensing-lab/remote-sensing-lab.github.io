@@ -36,9 +36,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Binghamton University
-  - line: 4400 Vestal Parkway East
-  - line: Binghamton, NY 13902
+  - line: University of Tennessee
+  - line: 1000 Phillip Fulmer Way
+  - line: Knoxville, TN 37996
 
 # Build settings
 markdown: kramdown
