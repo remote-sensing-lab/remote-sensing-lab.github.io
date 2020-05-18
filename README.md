@@ -24,5 +24,13 @@ Images are in '/img/team/'
 ### Creating a new page
 
 create a page under _includes, _layouts, and root folder
+
+### Jekyll update
+
+* gem update --system
+* gem update
+* bundle update
+* bundle exec jekyll build
+
 =========
 For more details, read [documentation](https://jekyllrb.com/)
