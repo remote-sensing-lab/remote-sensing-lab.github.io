@@ -1,29 +1,33 @@
 <!-- Footer Section -->
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ 'now' | date: "%Y" }} {{ site.title }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li>All rights reserved. </li>
-                    </ul>
-                </div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">Copyright &copy; {{ 'now' | date: "%Y" }} {{ site.title }}</span>
             </div>
-            <br>
-            <div class="row" align="center">
-                <div  style="text-align:center; margin:0; padding:0; width:220px;"><embed src="//ra.revolvermaps.com/f/f.swf" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"
-                wmode="window" allowScriptAccess="always" allowNetworking="all" width="220" height="110" flashvars="m=0&amp;i=02jz40cthmu&amp;r=0&amp;c=ff0000"></embed><br /><img src="//ra.revolvermaps.com/js/c/02jz40cthmu.gif" width="1" height="1" alt="" />
-                <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=02jz40cthmu&dm=4" target="_blank">Large Visitor Map</a></div>
-           </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li>All rights reserved. </li>
+                </ul>
+            </div>
         </div>
-    </footer>
+        <br>
+        <div class="row" align="center">
+            <div style="text-align:center; margin:0; padding:0; width:220px;"><embed src="//ra.revolvermaps.com/f/f.swf"
+                    type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"
+                    wmode="window" allowScriptAccess="always" allowNetworking="all" width="220" height="110"
+                    flashvars="m=0&amp;i=02jz40cthmu&amp;r=0&amp;c=ff0000"></embed><br /><img
+                    src="//ra.revolvermaps.com/js/c/02jz40cthmu.gif" width="1" height="1" alt="" />
+                <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=02jz40cthmu&dm=4" target="_blank">Large
+                    Visitor Map</a></div>
+        </div>
+    </div>
+</footer>
