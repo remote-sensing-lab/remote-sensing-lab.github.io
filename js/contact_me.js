@@ -19,7 +19,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/qwu18@utk.edu",
+                url: "//formspree.io/f/qwu18@utk.edu",
                 method: "POST",
                 data: {
                     name: name,
