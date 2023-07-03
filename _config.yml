@@ -3,23 +3,22 @@ title: Qiusheng Wu
 email: qwu18@utk.edu
 description: "Dr. Qiusheng Wu's Academic Website"
 
-
 # Team names, titles and social links
 people:
-- name: Qiusheng Wu, PhD <br>（中文名：吴秋生）
-  pic: me
-  position: Assistant Professor
-  social:
-    - title: twitter
-      url: https://twitter.com/giswqs
-    - title: youtube
-      url: https://www.youtube.com/c/QiushengWu
-    - title: github
-      url: https://github.com/giswqs
-    - title: linkedin
-      url: https://www.linkedin.com/in/qiushengwu
-    - title: graduation-cap
-      url: https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en
+  - name: Qiusheng Wu, PhD <br>（中文名：吴秋生）
+    pic: me
+    position: Associate Professor
+    social:
+      - title: twitter
+        url: https://twitter.com/giswqs
+      - title: youtube
+        url: https://www.youtube.com/c/QiushengWu
+      - title: github
+        url: https://github.com/giswqs
+      - title: linkedin
+        url: https://www.linkedin.com/in/qiushengwu
+      - title: graduation-cap
+        url: https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
