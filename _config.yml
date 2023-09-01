@@ -5,7 +5,7 @@ description: "Dr. Qiusheng Wu's Academic Website"
 
 # Team names, titles and social links
 people:
-  - name: Qiusheng Wu, PhD <br>Pronunciation <a href="<a href="https://github.com/giswqs" target="_blank">GitHub</a>" target="_blank">"Chyoo-sheng Woo"</a><br>（中文名：吴秋生）
+  - name: Qiusheng Wu, PhD<br>（中文名：吴秋生）
     pic: me
     position: Associate Professor
     social:
